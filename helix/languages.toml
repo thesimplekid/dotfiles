@@ -1,0 +1,9 @@
+[[language]]
+name = "rust"
+
+[language.config.check]
+command = "clippy"
+
+[language.config]
+hostInfo = "helix"
+ 
